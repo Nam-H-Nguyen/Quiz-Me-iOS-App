@@ -2,7 +2,7 @@
 Quiz Me iOS App written in Swift 4/iOS 11
 
 ## Finished App
-![Finished App](https://github.com/Nam-H-Nguyen/BitcoinTracker/blob/master/quizme-app.gif "Quiz Me iOS app written in Swift 4/iOS 11")
+![Finished App](https://github.com/Nam-H-Nguyen/Quiz-Me-iOS-App/blob/master/quizme-app.gif "Quiz Me iOS app written in Swift 4/iOS 11")
 
 
 ### Steps to run the 📱 app: ###

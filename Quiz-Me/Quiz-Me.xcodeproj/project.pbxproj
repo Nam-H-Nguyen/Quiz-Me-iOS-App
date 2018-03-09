@@ -16,6 +16,7 @@
 		CD3B3D182052761A00AB3E01 /* QuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD3B3D172052761A00AB3E01 /* QuestionBank.swift */; };
 		CD3B3D1E2052A94800AB3E01 /* ProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = CD3B3D1C2052A94800AB3E01 /* ProgressHUD.bundle */; };
 		CD3B3D1F2052A94800AB3E01 /* ProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = CD3B3D1D2052A94800AB3E01 /* ProgressHUD.m */; };
+		CD3B3D212052B15700AB3E01 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD3B3D202052B15700AB3E01 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		CD3B3D1B2052A94800AB3E01 /* ProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgressHUD.h; sourceTree = "<group>"; };
 		CD3B3D1C2052A94800AB3E01 /* ProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ProgressHUD.bundle; sourceTree = "<group>"; };
 		CD3B3D1D2052A94800AB3E01 /* ProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgressHUD.m; sourceTree = "<group>"; };
+		CD3B3D202052B15700AB3E01 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 		CD14633920464376004DC6B4 = {
 			isa = PBXGroup;
 			children = (
+				CD3B3D202052B15700AB3E01 /* Default-568h@2x.png */,
 				CD14634420464376004DC6B4 /* Quiz-Me */,
 				CD14635120464376004DC6B4 /* Info.plist */,
 				CD14634320464376004DC6B4 /* Products */,
@@ -175,6 +178,7 @@
 				CD3B3D1E2052A94800AB3E01 /* ProgressHUD.bundle in Resources */,
 				CD14635020464376004DC6B4 /* LaunchScreen.storyboard in Resources */,
 				CD14634D20464376004DC6B4 /* Assets.xcassets in Resources */,
+				CD3B3D212052B15700AB3E01 /* Default-568h@2x.png in Resources */,
 				CD14634B20464376004DC6B4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
