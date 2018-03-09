@@ -51,6 +51,8 @@ class ViewController: UIViewController {
     // method to update all the screen UI including progressBar, progressLabel, scoreLabel and questionLabel
     func updateUI() {
         scoreLabel.text = "Score: " + String(score)
+        progressLabel.text = String(questionNumber) + "/20"
+        progressBar.frame.size.width = (view.frame.size.width / 20) * CGFloat(questionNumber)
     }
     
     // method to update the next question
@@ -73,11 +75,11 @@ class ViewController: UIViewController {
     func checkAnswer() {
         let correctAnswer = allQuestions.scienceQuestionList[questionNumber].answer
         if correctAnswer == pickedAnswer {
-            print("CORRECT!")
+            ProgressHUD.showSuccess("CORRECT!")
             score += 1
         }
         else {
-            print("WRONG!")
+            ProgressHUD.showError("WRONG!")
         }
     }
     
