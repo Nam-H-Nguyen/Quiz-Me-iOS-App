@@ -23,4 +23,4 @@ I have many more projects to come. If you want to collaborate with me feel free 
 [Nam's LinkedIn](https://www.linkedin.com/in/namhnguyen1337)
 
 Third Party Code Library used:
-![Code Library](https://github.com/relatedcode/ProgressHUD)
+[ProgressHUD](https://github.com/relatedcode/ProgressHUD)
